@@ -11,6 +11,7 @@
 ## 组件
 
 - [canner-slate-editor](https://github.com/Canner/canner-slate-editor) - 编辑器
+- [formik](https://github.com/jaredpalmer/formik) - 表单
 
 ## 工具
 
