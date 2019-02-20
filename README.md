@@ -12,6 +12,7 @@
 
 - [canner-slate-editor](https://github.com/Canner/canner-slate-editor) - 编辑器
 - [formik](https://github.com/jaredpalmer/formik) - 表单
+- [react-spring](https://github.com/react-spring/react-spring) - 弹簧动画
 
 ## 工具
 
