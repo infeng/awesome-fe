@@ -7,6 +7,7 @@
 - [storybook](https://github.com/storybooks/storybook) - 组建开发和测试利器
 - [concurrently](https://github.com/kimmobrunfeldt/concurrently) - 并行运行命令
 - [create-react-library](https://github.com/transitive-bullshit/create-react-library) - 快速创建react库
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - 命令行交互工具
 
 ## 组件
 
